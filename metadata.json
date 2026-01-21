@@ -1,0 +1,5 @@
+{
+  "name": "Sintetizador de Escenas 360° AI",
+  "description": "Sube una foto y utiliza la IA para generar una vista de 360 grados del entorno girando una cámara virtual alrededor del sujeto.",
+  "requestFramePermissions": []
+}
